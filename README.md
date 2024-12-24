@@ -49,18 +49,22 @@ Ensure the following tools are installed on your macOS:
 ### Download and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/zsh-hacker-multitool.git
-   cd zsh-hacker-multitool
+   git clone https://github.com/bxndito/zshhackingtool
+   cd zshhackingtool
    ```
 
 2. Make the script executable:
    ```bash
-   chmod +x zsh_multitool.sh
+   chmod +x zshhackingtool.sh
    ```
 
 3. Run the script:
    ```bash
-   ./zsh_multitool.sh
+   ./zshhackingtool.sh
+   ```
+   or
+   ```bash
+   bash zshhackingtool.sh
    ```
 
 ## Usage
